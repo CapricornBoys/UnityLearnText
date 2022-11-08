@@ -7,3 +7,4 @@
 4. Trail(拖尾)
 5. Gray - shader (颜色置灰)
 6. 背景模糊shader 
+7. 批量改名工具
